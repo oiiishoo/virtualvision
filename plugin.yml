@@ -1,0 +1,7 @@
+name: vw
+version: '${version}'
+main: vw
+api-version: '1.16'
+commands:
+  dim:
+    description: prikol
